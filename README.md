@@ -81,7 +81,7 @@ The homepage that provides navigation to all sections:
 ```
 2. Open the project folder.
 
-3. Open index.html in your browser.
+3. Open admin_page.html in your browser.
 
 4. Navigate through the dashboard using the links.
 ---
